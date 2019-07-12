@@ -16,7 +16,7 @@ Providing awesome experience of on-the-fly hot reloading to instantly implementi
 * 🖥  **Modern stack technologies** <br>Build modern static websites with bundled scripts and styles.<br>Rapidly prototype and instantly deploy to the server.<br>
 Use **any modern frontend stack** (**webpack** bundled) – [Vue.JS](https://vuejs.org), [React](https://reactjs.org), [Angular](https://angular.io), [Ember](https://emberjs.org), etc.
 * 🚀  **Blazing fast and reliable**<br>
-Performs nearly 1.000 pages per second (depends on the pages content and raw computer processor power).<br>
+Performs nearly 1,000 pages per second (depends on the pages content and raw computer processor power).<br>
  Being online. Server can handle thousands requests per seconds to serve static files (even on tiny VPS).
 * 📦 **For any hosting**<br>
 Doesn't requires **any database** (data stored in flat files) and works on **any hosting** (as it produces *static html and assets files*).
